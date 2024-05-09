@@ -1,6 +1,6 @@
-##Testnet Setup Instructions
+# Testnet Setup Instructions
 
-###Install dependencies
+## Install dependencies
 
 UPDATE SYSTEM AND INSTALL BUILD TOOLS
 ```
