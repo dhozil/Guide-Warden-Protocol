@@ -1,4 +1,6 @@
-# Testnet Setup Instructions
+# Warden Protocol Buenavista-1 Guide 
+
+## Testnet Setup Instructions
 
 ### Install dependencies
 
