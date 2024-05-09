@@ -1,6 +1,7 @@
-#Testnet Setup Instructions
+##Testnet Setup Instructions
 
-##Install dependencies
+###Install dependencies
+
 UPDATE SYSTEM AND INSTALL BUILD TOOLS
 ```
 sudo apt update && sudo apt upgrade -y
