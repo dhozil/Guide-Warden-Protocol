@@ -79,7 +79,7 @@ sudo systemctl enable wardend
 sudo systemctl restart wardend && sudo journalctl -u wardend -f -o cat
 ```
 
-##Key management
+##K ey management
 
 ### Add new wallet
 ```
