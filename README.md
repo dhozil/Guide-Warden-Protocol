@@ -54,7 +54,7 @@ sed -i \
   $HOME/.side/config/app.toml
 ```
 
-### create service file
+### Create service file
 ```
 sudo tee /etc/systemd/system/wardend.service > /dev/null <<EOF
 [Unit]
@@ -79,7 +79,7 @@ sudo systemctl enable wardend
 sudo systemctl restart wardend && sudo journalctl -u wardend -f -o cat
 ```
 
-##K ey management
+## Key management
 
 ### Add new wallet
 ```
