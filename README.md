@@ -1,4 +1,4 @@
-# Warden Protocol Buenavista-1 Guide 
+# Guide Warden Protocol Buenavista-1
 
 ## Testnet Setup Instructions
 
