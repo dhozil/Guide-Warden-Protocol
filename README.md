@@ -51,7 +51,7 @@ sed -i \
   -e 's|^pruning-keep-recent *=.*|pruning-keep-recent = "100"|' \
   -e 's|^pruning-keep-every *=.*|pruning-keep-every = "0"|' \
   -e 's|^pruning-interval *=.*|pruning-interval = "19"|' \
-  $HOME/.side/config/app.toml
+  $HOME/.warden/config/app.toml
 ```
 
 ### Create service file
